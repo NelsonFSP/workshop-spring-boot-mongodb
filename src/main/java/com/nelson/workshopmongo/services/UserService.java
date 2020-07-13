@@ -7,9 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.nelson.workshopmongo.domain.User;
+import com.nelson.workshopmongo.dto.UserDTO;
 import com.nelson.workshopmongo.repository.UserRepository;
 import com.nelson.workshopmongo.services.exception.ObjectNotFoundException;
-import com.nelson.workshopmongo.sto.UserDTO;
 
 @Service
 public class UserService {

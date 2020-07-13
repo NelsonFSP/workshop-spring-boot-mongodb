@@ -1,4 +1,4 @@
-package com.nelson.workshopmongo.sto;
+package com.nelson.workshopmongo.dto;
 
 import java.io.Serializable;
 
